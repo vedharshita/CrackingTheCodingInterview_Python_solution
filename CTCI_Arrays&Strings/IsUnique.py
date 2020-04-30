@@ -85,5 +85,5 @@ print(res)
 #
 # We can also immediately return false if the string length exceeds the number of unique characters in the
 # alphabet. After all, you can't form a string of 280 unique characters out of a 128-character alphabet.
-# I It's also okay to assume 256 characters. This would be the case in extended ASCII. You should
+# It's also okay to assume 256 characters. This would be the case in extended ASCII. You should
 # clarify your assumptions with your interviewer.
